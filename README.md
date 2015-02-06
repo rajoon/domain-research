@@ -6,11 +6,8 @@ Shem Rajoon
 BFA D+T
 
 What three domains did you find?
-
 1.http://soulwire.co.uk/hello
-
 2.http://123d.circuits.io/
-
 3.http://mapdive.weareinstrument.com/
 
 Which one would you like to talk a little more about
