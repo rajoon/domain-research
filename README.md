@@ -2,15 +2,15 @@
 
 1. List 10 available domains (use http://iwantmyname.com) you think would be appropriate for your site:
 
-  http://weatherfun.io
-  http://weathergif.io
-  http://weatherphy.io
-  http://weatherify.io
-  http://cloudywithachanceofgif.com
-  http://developer.littlebits.cc
-  http://littlebits.cc/developer
-  http://dev.littlebits.cc
-  http://api.littlebits.cc
+  - http://weatherfun.io
+  - http://weathergif.io
+  - http://weatherphy.io
+  - http://weatherify.io
+  - http://cloudywithachanceofgif.com
+  - http://developer.littlebits.cc
+  - http://littlebits.cc/developer
+  - http://dev.littlebits.cc
+  - http://api.littlebits.cc
 
 
 2. What type or genre of domain is this? (Ex. Game, Toy, Greeting Card Generator, Creative Tool, Political Pamphlet, Archive)
@@ -41,7 +41,7 @@
   Developer Site
   - Interactive map that connects to cloudBit API and show where every active cloubBit is located.
   - Left drawer menu with right content fade
-  
+
 
 
 # domain-resears ch
